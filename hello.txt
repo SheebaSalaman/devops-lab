@@ -1,1 +1,1 @@
-Hello from main branch!
+hello from both branches!
